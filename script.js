@@ -215,3 +215,11 @@ btnSort.addEventListener('click', function (e) {
 })
 
 const movements = [200, 450, -400, 3000, -650, 130, 70, 1300];
+
+
+labelBalance.addEventListener('click', function () {
+  const movementsUI = Array.from(document.querySelectorAll('.movements__value'),
+  el => Number(el.textContent.replace('EUR', ''))
+  );
+  console.log(movementsUI);
+})
