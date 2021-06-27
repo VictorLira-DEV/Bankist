@@ -1,12 +1,4 @@
 'use strict';
-
-/////////////////////////////////////////////////
-/////////////////////////////////////////////////
-// BANKIST APP
-
-/////////////////////////////////////////////////
-// Data
-
 // DIFFERENT DATA! Contains movement dates, currency and locale
 
 const account1 = {
@@ -78,7 +70,6 @@ const inputLoanAmount = document.querySelector('.form__input--loan-amount');
 const inputCloseUsername = document.querySelector('.form__input--user');
 const inputClosePin = document.querySelector('.form__input--pin');
 
-/////////////////////////////////////////////////
 // Functions
 
 const formatMovementDate = function (date, locale) {
@@ -186,7 +177,6 @@ const updateUI = function (acc) {
   calcDisplaySummary(acc);
 };
 
-///////////////////////////////////////
 // Event handlers
 let currentAccount;
 
