@@ -21,8 +21,6 @@ Password : 2222
 
 :key: Take a look --> https://victorlira-dev.github.io/Bankist/
 
-## The challenge
-Your challenge is to build out this Rock, Paper, Scissors game and get it looking as close to the design as possible.
 
 ## :rocket: Technologies used:
 <p align="center">
@@ -42,6 +40,12 @@ You can use any tools you like to help you complete the challenge. So if you've 
 - [x] close account
 ## Rules
 
+---
 
-Created by **frontendmentor** <br>
+## About
+
+this project was developed in The Complete JavaScript Course 2021: From Zero to Expert! couse 
+https://www.udemy.com/course/the-complete-javascript-course/
+
+Created by **Jonas Schmedtmann** <br>
 Developed by **Victor Lira**
